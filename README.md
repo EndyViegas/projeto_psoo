@@ -1,4 +1,4 @@
-# projeto_psoo
+# Projeto acadêmico
 Projeto criado para a disciplina de projeto de software orientado a objetos
 
 Critérios do projeto:
